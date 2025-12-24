@@ -35,17 +35,6 @@ and then generates **Buy / Sell / Hold** signals with full **backtesting**.
 
 ---
 
-## 🗂️ Project Structure
-
-sentiment-attention-alpha/
-├── src/
-├── scripts/
-├── tests/
-├── README.md
-└── pyproject.toml
-
----
-
 ## ⚙️ Setup
 
 ```bash
