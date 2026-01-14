@@ -1,0 +1,18 @@
+{
+  "ticker": "OKLO",
+  "final_equity": NaN,
+  "curve": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    NaN
+  ],
+  "max_drawdown": 0.0,
+  "sharpe_like": NaN
+}
