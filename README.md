@@ -2,7 +2,7 @@
 
 🚀 A social-sentiment–driven trading signal pipeline with Redis and backtesting.
 
----
+
 
 ## 🔍 Overview
 
@@ -21,7 +21,7 @@ and then generates **Buy / Sell / Hold** signals with full **backtesting**.
 🎯 Philosophy:  
 **Start with one ticker, make it work end-to-end, then scale.**
 
----
+
 
 ## ✨ Key Features
 
@@ -33,7 +33,7 @@ and then generates **Buy / Sell / Hold** signals with full **backtesting**.
 - 🔄 Backtesting with forward returns
 - 📊 Plots for sentiment, attention, and price signals
 
----
+
 
 ## ⚙️ Setup
 
@@ -47,7 +47,6 @@ cp .env.example .env
 redis-server
 ```
 
----
 
 ## ▶️ Run Example (OKLO)
 
@@ -57,7 +56,6 @@ python scripts/run_features.py --ticker OKLO --bucket-minutes 60 --lookback-days
 python scripts/run_backtest.py --ticker OKLO --bucket-minutes 60 --lookback-days 90
 ```
 
----
 
 ## ⚠️ Disclaimer
 
